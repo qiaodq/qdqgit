@@ -4,6 +4,6 @@ Library           Selenium2Library
 *** Keywords ***
 登录
 
-退出
+退
 
 查询
